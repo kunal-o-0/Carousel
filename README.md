@@ -10,7 +10,7 @@ In many web-applications, we notice that there are simple slideshow(_or carousel
 
 This app contains 5 simple images and those are shown as slideshow. User can click on `>` or `<` to navigate through slides and get some information. Below slideshow block, there contains indicator for slides.
 
-## My work :toolkit:
+## My work :hammer_and_wrench:
 
 So, I used 5 images and developed carousel/slideshow of images. Images are imported from local storage and description for those is also added.\
 I also used **css-animations** to add transition effect when slide changes, this way UX got improved. "useRef()" hook is used to track reference to slides, so that we can perform some action and get the work done. Same for indicator also.Indicator reflects latest position of slide at which we are now and jump to any specific position can also be made by clicking on particular "dot"
